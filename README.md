@@ -50,7 +50,7 @@ My skillset focuses on secure network architecture, infrastructure hardening, an
     * **VLAN Segmentation:** Logically separated HR, Finance, and IT traffic.
     * **Access Control:** Configured granular ACLs and firewall policies to enforce the principle of least privilege.
 * **Outcome:** Delivered a blueprint that passed simulated vulnerability assessments for common LAN attacks (ARP Spoofing, MITM).
-* 
+  
 ## 5. Learning Journey
 **Reflections on the Master's Program:**
 Transitioning from undergraduate studies to the Master of Cyber Security at UM has shifted my perspective from "configuring tools" to "building tools."
@@ -59,6 +59,16 @@ Transitioning from undergraduate studies to the Master of Cyber Security at UM h
 * **Future Goals:** I am looking to undertake more cybersecurity projects to enhance my skills and boost my future career prospects.
 
 ## 6. Career Objective
+**Aspiring Security Engineer & Automated Defense Specialist**
 
+My professional goal is to secure modern digital infrastructures by bridging the gap between **Network Engineering** and **Artificial Intelligence**. I aim to work in a dynamic **Security Operations Center (SOC)** or as a **Security Engineer**, where I can apply my skills in Python automation, behavioral analysis, and threat hunting to build proactive defense systems.
+
+Ultimately, I strive to contribute to the field of **Purple Teaming**, developing self-learning security agents that can adapt to sophisticated cyber threats faster than traditional manual interventions.
 
 ## 7. Contact Information
+* **Email:** 24207082@siswa.um.edu.my
+* **LinkedIn:** https://www.linkedin.com/in/aiqi
+* **GitHub Profile:** https://github.com/24207082
+* **Live Website:** https://24207082.github.io/cybersecurity-portfolio/
+* **Location:** Kuala Lumpur, Malaysia
+
